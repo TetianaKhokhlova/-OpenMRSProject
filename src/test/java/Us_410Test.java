@@ -7,6 +7,7 @@ import org.openqa.selenium.interactions.Actions;
 
 public  class Us_410Test {
 
+
     public void waitMethod(int sec){
         try {
             Thread.sleep(sec*1000);
