@@ -122,13 +122,4 @@ public class US_PageAll extends MethodForUS_All {
 
 
 
-
-
-
-
-
-
-
-
-
 }
