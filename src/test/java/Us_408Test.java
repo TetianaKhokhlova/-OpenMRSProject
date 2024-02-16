@@ -1,5 +1,5 @@
 
-import org.junit.Assert;
+import org.testng.Assert;
 import org.openqa.selenium.By;
 
 
